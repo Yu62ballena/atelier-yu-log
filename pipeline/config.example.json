@@ -1,0 +1,7 @@
+{
+  "db_path": "../data/atelier.db",
+  "notion_token": "PLACEHOLDER",
+  "notion_projects_db_id": "PLACEHOLDER",
+  "notion_reports_db_id": "PLACEHOLDER",
+  "classifier_endpoint": "PLACEHOLDER"
+}
