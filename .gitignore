@@ -43,3 +43,7 @@ dist/
 *.njsproj
 *.sln
 *.sw?
+
+# Collector specific
+collector/.collector.pid
+collector/__pycache__/

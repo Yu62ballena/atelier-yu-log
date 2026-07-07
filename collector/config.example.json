@@ -1,0 +1,6 @@
+{
+  "poll_interval_sec": 60,
+  "afk_threshold_sec": 300,
+  "db_path": "../data/atelier.db",
+  "exclude_apps": []
+}
